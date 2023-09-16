@@ -1,0 +1,20 @@
+name: qr_code_test
+description: A new Flutter project
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_code_scanner: ^1.0.1
+  qr_flutter: ^4.0.0
+
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
